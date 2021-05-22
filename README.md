@@ -1,4 +1,7 @@
 # Doisnet
+
+[![Join the chat at https://gitter.im/Doisnet/gossip](https://badges.gitter.im/Doisnet/gossip.svg)](https://gitter.im/Doisnet/gossip?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ###### Solve any network problem
 <img align="right" src="https://user-images.githubusercontent.com/73285310/117543679-68f9b680-b050-11eb-9286-7d806d6f5f08.png">
 <p>
